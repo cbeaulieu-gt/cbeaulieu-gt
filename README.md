@@ -97,39 +97,35 @@ CLI tool that parses Claude Code session data and renders an interactive HTML da
 
 ---
 
-## Stats
+## At a glance
 
 <div align="center">
 
-<img src="./metrics.svg" alt="GitHub Metrics" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="100%" />
 
 </div>
-
----
-
-## Languages
 
 <table>
 <tr>
 <td width="50%" align="center">
-
-<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
-
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="100%" />
 </td>
 <td width="50%" align="center">
-
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most-committed languages" />
-
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="100%" />
+</td>
+<td width="50%" align="center">
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most-committed languages" width="100%" />
 </td>
 </tr>
 </table>
 
----
-
-## Streak
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=cbeaulieu-gt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=cbeaulieu-gt&theme=tokyonight&hide_border=true&card_width=700" alt="GitHub Streak" width="100%" />
 
 </div>
