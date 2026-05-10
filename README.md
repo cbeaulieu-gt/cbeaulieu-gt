@@ -107,6 +107,25 @@ CLI tool that parses Claude Code session data and renders an interactive HTML da
 
 ---
 
+## Languages
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+
+</td>
+<td width="50%" align="center">
+
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most-committed languages" />
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Streak
 
 <div align="center">
