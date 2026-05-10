@@ -1,0 +1,35 @@
+name: profile-cards
+
+# Generates language-breakdown SVGs (and other profile cards) via
+# vn7n24fzkq/github-profile-summary-cards. Cards land under
+# profile-summary-card-output/<theme>/ and are auto-committed to main.
+# The README references the tokyonight theme variant.
+
+on:
+  schedule:
+    - cron: '15 6 * * *'  # daily at 06:15 UTC, offset from metrics.yml (06:00)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/profile-cards.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate profile cards
+        uses: vn7n24fzkq/github-profile-summary-cards@5055b27ac896c627043ead432f9b2fa973aa2c80  # v0.7.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: cbeaulieu-gt
+          BRANCH_NAME: main
+          UTC_OFFSET: -5  # America/New_York (Coconut Creek, FL)
+          AUTO_PUSH: true
