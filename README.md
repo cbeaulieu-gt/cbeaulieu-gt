@@ -43,7 +43,7 @@ Coconut Creek, FL · [christopherbeaulieu.net](https://christopherbeaulieu.net)
 
 ## Featured projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -99,13 +99,7 @@ CLI tool that parses Claude Code session data and renders an interactive HTML da
 
 ## At a glance
 
-<div align="center">
-
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="100%" />
-
-</div>
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" align="center">
 <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="100%" />
@@ -122,10 +116,9 @@ CLI tool that parses Claude Code session data and renders an interactive HTML da
 <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most-committed languages" width="100%" />
 </td>
 </tr>
-</table>
-
-<div align="center">
-
+<tr>
+<td colspan="2" align="center">
 <img src="https://streak-stats.demolab.com/?user=cbeaulieu-gt&theme=tokyonight&hide_border=true&card_width=700" alt="GitHub Streak" width="100%" />
-
-</div>
+</td>
+</tr>
+</table>
