@@ -97,29 +97,29 @@ CLI tool that parses Claude Code session data and renders an interactive HTML da
 
 ---
 
-## Stats & streak
+## Stats
+
+<div align="center">
+
+<img src="./metrics.svg" alt="GitHub Metrics" />
+
+</div>
+
+---
+
+## Streak & languages
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="55%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cbeaulieu-gt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+<img src="https://streak-stats.demolab.com/?user=cbeaulieu-gt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </td>
-<td width="50%" align="center">
+<td width="45%" align="center">
 
-<img src="https://streak-stats.demolab.com/?user=cbeaulieu-gt&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+<img src="./metrics-langs.svg" alt="Top Languages" />
 
 </td>
 </tr>
 </table>
-
----
-
-## Top languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbeaulieu-gt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
