@@ -107,19 +107,10 @@ CLI tool that parses Claude Code session data and renders an interactive HTML da
 
 ---
 
-## Streak & languages
+## Streak
 
-<table>
-<tr>
-<td width="55%" align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=cbeaulieu-gt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</td>
-<td width="45%" align="center">
-
-<img src="./metrics-langs.svg" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
+</div>
