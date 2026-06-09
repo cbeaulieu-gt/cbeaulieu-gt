@@ -9,8 +9,8 @@
 
   <a href="https://christopherbeaulieu.net">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&pause=1200&color=7AA2F7&center=true&vCenter=true&width=680&height=60&lines=Hi%2C+I'm+Chris;Senior+software+engineer;Multi-domain+generalist;Open+to+remote+roles"
-      alt="Hi, I'm Chris — senior software engineer and multi-domain generalist, open to remote roles"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&pause=1200&color=7AA2F7&center=true&vCenter=true&width=680&height=60&lines=Hi%2C+I'm+Chris;Senior+software+engineer;Multi-domain+generalist"
+      alt="Hi, I'm Chris — senior software engineer and multi-domain generalist"
     />
   </a>
 
@@ -38,10 +38,6 @@ dispatch routing, deterministic workflows, and Claude Code harness design.
 I care about the unglamorous parts — clear interfaces, honest defaults, and tools
 that fail loudly instead of silently.
 
-> [!TIP]
-> **Open to remote roles.** US-based (EST), fully remote-ready, and available for
-> new opportunities. The fastest way to reach me is [email](mailto:cmb_dev@outlook.com).
-
 ---
 
 ### `## currently`
@@ -50,7 +46,6 @@ that fail loudly instead of silently.
 ▸ building     Claude Code harness & dispatch routing
 ▸ learning     agentic development & AI
 ▸ thinking     about deterministic AI workflows
-▸ open to      remote software engineering work
 ```
 
 ---
