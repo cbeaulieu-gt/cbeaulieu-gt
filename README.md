@@ -1,124 +1,137 @@
+<!--
+  cbeaulieu-gt — GitHub profile README
+  Theme: Tokyo Night (dark-first, with light-mode parity via <picture> swaps).
+  Pin / stat / streak widgets fetch LIVE data from the GitHub API on render —
+  descriptions, stars, language splits and streaks are real, not hard-coded.
+-->
+
 <div align="center">
 
-# hey, I'm Chris
+  <a href="https://christopherbeaulieu.net">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&pause=1200&color=7AA2F7&center=true&vCenter=true&width=680&height=60&lines=Hi%2C+I'm+Chris;Senior+software+engineer;Multi-domain+generalist;Open+to+remote+roles"
+      alt="Hi, I'm Chris — senior software engineer and multi-domain generalist, open to remote roles"
+    />
+  </a>
 
-**Senior software engineer · Multi-domain generalist**
+  <p><strong>Senior software engineer · Multi-domain generalist</strong></p>
 
-Coconut Creek, FL · [christopherbeaulieu.net](https://christopherbeaulieu.net)
+  <p>
+    <a href="https://christopherbeaulieu.net"><img alt="Blog" src="https://img.shields.io/badge/blog-christopherbeaulieu.net-7AA2F7?style=flat-square&logo=ghost&logoColor=white&labelColor=1A1B26" /></a>
+    <!-- TODO: replace with your real LinkedIn URL -->
+    <a href="https://www.linkedin.com/in/cbeaulieu-gt"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-7AA2F7?style=flat-square&logo=linkedin&logoColor=white&labelColor=1A1B26" /></a>
+    <a href="mailto:cmb_dev@outlook.com"><img alt="Email" src="https://img.shields.io/badge/email-cmb__dev%40outlook.com-7AA2F7?style=flat-square&logo=maildotru&logoColor=white&labelColor=1A1B26" /></a>
+    <img alt="Based in Coconut Creek, FL (EST)" src="https://img.shields.io/badge/based_in-Coconut_Creek,_FL_·_EST-565F89?style=flat-square&labelColor=1A1B26" />
+  </p>
 
 </div>
 
 ---
 
+### `## about`
+
+Senior software engineer and multi-domain generalist. I build practical software
+systems — job-search tooling, AI agent harnesses, and the glue that makes them
+dependable. Lately that means a lot of work on **agentic developer tooling**:
+dispatch routing, deterministic workflows, and Claude Code harness design.
+
+I care about the unglamorous parts — clear interfaces, honest defaults, and tools
+that fail loudly instead of silently.
+
+> [!TIP]
+> **Open to remote roles.** US-based (EST), fully remote-ready, and available for
+> new opportunities. The fastest way to reach me is [email](mailto:cmb_dev@outlook.com).
+
+---
+
+### `## currently`
+
+```text
+▸ building     Claude Code harness & dispatch routing
+▸ learning     agentic development & AI
+▸ thinking     about deterministic AI workflows
+▸ open to      remote software engineering work
+```
+
+---
+
+### `## stack`
+
+<p>
+  <img alt="Python"         src="https://img.shields.io/badge/Python-7AA2F7?style=flat-square&logo=python&logoColor=white&labelColor=1A1B26" />
+  <img alt="TypeScript"     src="https://img.shields.io/badge/TypeScript-7AA2F7?style=flat-square&logo=typescript&logoColor=white&labelColor=1A1B26" />
+  <img alt="JavaScript"     src="https://img.shields.io/badge/JavaScript-7AA2F7?style=flat-square&logo=javascript&logoColor=white&labelColor=1A1B26" />
+  <img alt="Go"             src="https://img.shields.io/badge/Go-7AA2F7?style=flat-square&logo=go&logoColor=white&labelColor=1A1B26" />
+  <img alt="React"          src="https://img.shields.io/badge/React-7AA2F7?style=flat-square&logo=react&logoColor=white&labelColor=1A1B26" />
+</p>
+<p>
+  <img alt="FastAPI"        src="https://img.shields.io/badge/FastAPI-BB9AF7?style=flat-square&logo=fastapi&logoColor=white&labelColor=1A1B26" />
+  <img alt="PostgreSQL"     src="https://img.shields.io/badge/PostgreSQL-BB9AF7?style=flat-square&logo=postgresql&logoColor=white&labelColor=1A1B26" />
+  <img alt="Docker"         src="https://img.shields.io/badge/Docker-BB9AF7?style=flat-square&logo=docker&logoColor=white&labelColor=1A1B26" />
+  <img alt="PowerShell"     src="https://img.shields.io/badge/PowerShell-BB9AF7?style=flat-square&logo=powershell&logoColor=white&labelColor=1A1B26" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-BB9AF7?style=flat-square&logo=githubactions&logoColor=white&labelColor=1A1B26" />
+</p>
+
+---
+
+### `## featured`
+
 <div align="center">
 
-**Currently working on**
+  <a href="https://github.com/cbeaulieu-gt/job-matcher">
+    <img alt="job-matcher" src="https://github-readme-stats.vercel.app/api/pin/?username=cbeaulieu-gt&repo=job-matcher&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
+  </a>
+  <a href="https://github.com/glitchwerks/rsl-siege-manager">
+    <img alt="rsl-siege-manager" src="https://github-readme-stats.vercel.app/api/pin/?username=glitchwerks&repo=rsl-siege-manager&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
+  </a>
 
-![Building](https://img.shields.io/badge/🔭_Building-Claude_Code_harness_%26_dispatch_routing-085041?style=flat-square&labelColor=E1F5EE)
-![Learning](https://img.shields.io/badge/🌱_Learning-Agentic_development_%26_AI-3C3489?style=flat-square&labelColor=EEEDFE)
-![Thinking](https://img.shields.io/badge/💭_Thinking_about-deterministic_AI_workflows-633806?style=flat-square&labelColor=FAEEDA)
+  <a href="https://github.com/cbeaulieu-gt/hackathon-llm-support-agent">
+    <img alt="hackathon-llm-support-agent" src="https://github-readme-stats.vercel.app/api/pin/?username=cbeaulieu-gt&repo=hackathon-llm-support-agent&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
+  </a>
+  <a href="https://github.com/glitchwerks/claude-usage">
+    <img alt="claude-usage" src="https://github-readme-stats.vercel.app/api/pin/?username=glitchwerks&repo=claude-usage&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
+  </a>
+
+</div>
+
+<p align="center"><sub>
+  <strong>job-matcher</strong> — scrapes public job APIs, scores postings against personal preferences with LLMs, surfaces them in a clean web UI ·
+  <strong>rsl-siege-manager</strong> — full-stack Raid Shadow Legends clan-siege coordinator, Discord-native, self-hostable ·
+  <strong>hackathon-llm-support-agent</strong> — multi-stage support-ticket triage: BM25 retrieval, safety gates, grounded LLM responses ·
+  <strong>claude-usage</strong> — CLI that renders Claude Code session token usage as an interactive HTML dashboard
+</sub></p>
+
+---
+
+### `## stats`
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/?username=cbeaulieu-gt&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" />
+    <img alt="cbeaulieu-gt GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=cbeaulieu-gt&show_icons=true&hide_border=true&theme=tokyonight&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&include_all_commits=true&count_private=true" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=cbeaulieu-gt&theme=default&hide_border=true" />
+    <img alt="cbeaulieu-gt contribution streak" src="https://streak-stats.demolab.com/?user=cbeaulieu-gt&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cbeaulieu-gt&layout=compact&hide_border=true&theme=default" />
+    <img alt="cbeaulieu-gt most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbeaulieu-gt&layout=compact&hide_border=true&theme=tokyonight&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5" />
+  </picture>
 
 </div>
 
 ---
 
-## Tech stack
+### `## find me`
 
-<div align="center">
+<p>
+  <a href="https://christopherbeaulieu.net">christopherbeaulieu.net</a> ·
+  <a href="mailto:cmb_dev@outlook.com">cmb_dev@outlook.com</a> ·
+  <a href="https://www.linkedin.com/in/cbeaulieu-gt">LinkedIn</a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
-
----
-
-## Featured projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**[job-matcher](https://github.com/cbeaulieu-gt/job-matcher)** ⭐ 4
-
-Scrapes public job APIs, runs postings through LLMs to score them against personal preferences, and surfaces results in a clean web UI. My flagship personal LLM project.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-integration-8A2BE2?style=flat-square)
-![Web UI](https://img.shields.io/badge/Web_UI-included-009688?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-**[rsl-siege-manager](https://github.com/glitchwerks/rsl-siege-manager)** ⭐ 3
-
-Full-stack web utility for coordinating Raid Shadow Legends clan siege assignments — validated, automated, and Discord-native. Self-hostable.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Discord](https://img.shields.io/badge/Discord_bot-5865F2?style=flat-square&logo=discord&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[hackathon-llm-support-agent](https://github.com/cbeaulieu-gt/hackathon-llm-support-agent)**
-
-Multi-stage support-ticket triage agent: BM25 retrieval, deterministic safety gates, and grounded LLM responses across multiple support corpora. Built for the May 2026 HackerRank Orchestrate hackathon.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![BM25](https://img.shields.io/badge/BM25-retrieval-F7DF1E?style=flat-square&logoColor=black)
-![Claude](https://img.shields.io/badge/Claude-API-D97706?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-**[claude-usage](https://github.com/glitchwerks/claude-usage)** ⭐ 1
-
-CLI tool that parses Claude Code session data and renders an interactive HTML dashboard — token consumption by model, agent, skill, project, and time period.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-tool-5391FE?style=flat-square)
-![Dashboard](https://img.shields.io/badge/HTML_dashboard-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## At a glance
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="100%" />
-</td>
-<td width="50%" align="center">
-<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="100%" />
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="100%" />
-</td>
-<td width="50%" align="center">
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most-committed languages" width="100%" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://streak-stats.demolab.com/?user=cbeaulieu-gt&theme=tokyonight&hide_border=true&card_width=700" alt="GitHub Streak" width="100%" />
-</td>
-</tr>
-</table>
+<sub>Tokyo Night theme · dark-first with light-mode parity · widgets render live from the GitHub API.</sub>
