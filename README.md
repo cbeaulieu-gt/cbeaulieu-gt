@@ -41,11 +41,12 @@ thinking   about deterministic AI workflows
 - **[rsl-siege-manager](https://github.com/glitchwerks/rsl-siege-manager)** —
   full-stack Raid Shadow Legends clan-siege coordinator, Discord-native,
   self-hostable.
-- **[hackathon-llm-support-agent](https://github.com/cbeaulieu-gt/hackathon-llm-support-agent)**
-  — multi-stage support-ticket triage: BM25 retrieval, safety gates, grounded
-  LLM responses.
-- **[claude-usage](https://github.com/glitchwerks/claude-usage)** — CLI that
-  renders Claude Code session token usage as an interactive HTML dashboard.
+- **[baton-harness](https://github.com/glitchwerks/baton-harness)** — policy
+  and tooling layer for running autonomous Claude Code agents: lifecycle
+  hooks, an always-on daemon, and repo automation, packaged for reuse.
+- **[claude-wayfinder](https://github.com/glitchwerks/claude-wayfinder)** —
+  deterministic dispatcher for Claude Code that routes each turn to the right
+  agent or skill, instead of relying on freeform prompt matching.
 
 ## find me
 
